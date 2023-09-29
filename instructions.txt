@@ -1,0 +1,4 @@
+1. To pause the game, enter "p"
+2. To quit the game, enter "q"
+3. To start a new game, enter "s"
+4. To view stats, enter "v"
